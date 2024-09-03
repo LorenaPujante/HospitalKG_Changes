@@ -48,3 +48,10 @@ In the following figure, we represent how these changes are implemented in the k
   <img src="https://github.com/user-attachments/assets/1b58466f-9002-4ddb-8640-a3e45ef46ccb" alt="Changes of the Area section in the KG">
 </p>
 
+
+## 4. Result
+In the following figure, we represent the new KG that represents the domain model of a hospital (its layout and activity):
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6feb4ac3-559e-48d9-99a6-d3c0cdcebc53" alt="New KG to represent the domain model">
+</p>
+
