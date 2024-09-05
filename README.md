@@ -4,6 +4,12 @@ In this repository, we present a slight modification to the knowledge graph (KG)
 The changes over the KG relate to the spatial dimension used to describe a hospital layout. Specifically, we have changed the edges that link the _Area_ nodes with their coordinates (_Unit_ [row] and _Block_ [column] nodes) over its _Floor_.
 
 
+## 0. Related Repositories
+Below, we present some other related repositories that may be of interest to you:
+- [**HospitalEdgeWeights**](https://github.com/LorenaPujante/HospitalEdgeWeigths): It is also linked to [~~doi: TODO~~](NULL).
+- [**HospitalGeneratorRDF_V2**](https://github.com/LorenaPujante/HospitalGeneratorRDF_V2): It is also linked to [~~doi: TODO~~](NULL).
+
+
 ## 1. Proposal
 The following edges:
 - **_placedInUnit_** between an _Area_ and an _Unit_
