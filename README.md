@@ -1,5 +1,5 @@
 # HospitalKG_Changes
-In this repository, we present a slight modification to the knowledge graph (KG) with the domain model used as a basis in [10.1109/JBHI.2024.3417224](https://ieeexplore.ieee.org/document/10568325).
+In this repository, we present a slight modification to the knowledge graph (KG) with the domain model used as a basis in [10.1109/JBHI.2024.3417224](https://ieeexplore.ieee.org/document/10568325). This new KG has been used in [~~doi: TODO~~](NULL).
 
 The changes over the KG relate to the spatial dimension used to describe a hospital layout. Specifically, we have changed the edges that link the _Area_ nodes with their coordinates (_Unit_ [row] and _Block_ [column] nodes) over its _Floor_.
 
